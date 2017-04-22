@@ -9,6 +9,7 @@
  *
  */
 package com.wj.jsch_demo1;
+
 import com.jcraft.jsch.*;
 import java.awt.*;
 import javax.swing.*;
